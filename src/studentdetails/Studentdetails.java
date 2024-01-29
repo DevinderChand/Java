@@ -12,7 +12,8 @@ public class Studentdetails {
 
     /** user interactions - view class
      * to print 3 student details - name , age,stid
-     * @param args
+     * @param args 
+     * 22nd jan
      */
     public static void main(String[] args)
     { 
