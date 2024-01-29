@@ -12,6 +12,7 @@ public class Studentdetails {
 
     /** user interactions - view class
      * to print 3 student details - name , age,stid
+     * Jan 22nd
      * @param args 
      * 22nd jan
      */
